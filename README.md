@@ -35,3 +35,30 @@ fight the Chaos Dragon.
 - Add quality of life enhancements
 - Remove some of the tedium to facilitate building
 - Try not to short circuit mechanics
+- Limit world generation manipulation
+- No keybind conflicts
+
+Examples of how the goals drive decisions:
+
+#### No JEI
+
+The game has a recipe book and a useful mechanic to unlock recipes when they
+become relevant. I'd like to use that to guide the player, rather than a list of
+every item in the game. Any additional guidance can be offered through Patchouli.
+
+#### No always-on map or minimap
+
+Minecraft has a mapping mechanic, it's just a little cumbersome. Map Atlases
+takes care of helping you not get lost at the cost of some preparation. Of
+course, getting lost is sometimes the point...
+
+#### Show Saturation
+
+I feel a person would have some concept of their saturation, and so I feel its
+fine to show the player that information.
+
+#### Debug menu
+
+Players use the debug menu as if it were a heads up display. I hold that you are
+not meant to see the debug menu unless you are debugging the game. If possible,
+I want to disable it unless cheats are activated.

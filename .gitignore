@@ -2,8 +2,10 @@
 mods
 
 # Local Data
+crash-reports
 logs
 saves
 
 usercache.json
 usernamecache.json
+options.txt
