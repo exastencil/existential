@@ -1,0 +1,6 @@
+# Curseforge-specific files
+.curseclient
+minecraftinstance.json
+
+# The actual mods
+mods
