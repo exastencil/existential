@@ -1,6 +1,9 @@
-# Curseforge-specific files
-.curseclient
-minecraftinstance.json
-
-# The actual mods
+# Avoid redistributing mods
 mods
+
+# Local Data
+logs
+saves
+
+usercache.json
+usernamecache.json
