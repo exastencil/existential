@@ -62,3 +62,35 @@ fine to show the player that information.
 Players use the debug menu as if it were a heads up display. I hold that you are
 not meant to see the debug menu unless you are debugging the game. If possible,
 I want to disable it unless cheats are activated.
+
+## Typical Progression
+
+- Wood Pickaxe
+  - Stone / Coal
+  - Low Covalence
+- Stone Pickaxe
+  - Iron
+  - Redstone
+  - Medium Covalence
+- Iron Band (Iron)
+- Iron Pickaxe
+  - Diamond
+  - Obsidian
+  - High Covalence
+- Repair Talisman (All Covalences)
+- Enchanting Table (Diamond & Obsidian)
+- Nether Portal (Obsidian)
+  - Glowstone
+- Philosopher's Stone (Glowstone / Redstone / Diamond)
+  - Alchemical Fuels
+  - Dark Matter
+  - Red Matter
+- Klein Star
+- Transmutation Table (Philosopher's Stone / Obsidian)
+- Swiftwolf's Rending Galse (Iron Band / Dark Matter) <Semi-Creative Flight>
+- Black Hole Band (Iron Band / Dark Matter) <Magnet>
+- Gem of Eternal Density (Diamond / Obsidian / Dark Matter) <EMC Condensing>
+- Archangel's Smite (Iron Band / Dark Matter) <Infinity Bow>
+- Dark Matter Gear
+- Red Matter Gear
+- Gem Gear
