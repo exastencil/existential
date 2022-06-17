@@ -75,8 +75,10 @@ I want to disable it unless cheats are activated.
 - Iron Band (Iron)
 - Iron Pickaxe
   - Diamond
-  - Obsidian
   - High Covalence
+- Diamond Pickaxe
+  - Obsidian
+- Pickarang
 - Repair Talisman (All Covalences)
 - Enchanting Table (Diamond & Obsidian)
 - Nether Portal (Obsidian)
@@ -85,9 +87,9 @@ I want to disable it unless cheats are activated.
   - Alchemical Fuels
   - Dark Matter
   - Red Matter
-- Klein Star
+- Klein Star (Diamond / Alchemical Fuel)
 - Transmutation Table (Philosopher's Stone / Obsidian)
-- Swiftwolf's Rending Galse (Iron Band / Dark Matter) <Semi-Creative Flight>
+- Swiftwolf's Rending Gale (Iron Band / Dark Matter) <Semi-Creative Flight>
 - Black Hole Band (Iron Band / Dark Matter) <Magnet>
 - Gem of Eternal Density (Diamond / Obsidian / Dark Matter) <EMC Condensing>
 - Archangel's Smite (Iron Band / Dark Matter) <Infinity Bow>

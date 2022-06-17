@@ -18,6 +18,11 @@ Energy Collectors are enabled, but the Watch of Flowing Time is disabled to
 preserve some longevity. The endgame armour also needs full Klein Stars so it
 gives you something to work to.
 
+EMC also isn't equivalent, but is instead set to 75% efficiency. That is, if you
+put 4 logs in, you can pull 3 logs out. This balances the convenience of having
+access to everything with the incentive to build farms and be efficient with
+transmutation, especially later when items cost millions of EMC.
+
 ### ProjectExtended by pupnewfster
 Adds some extra tools and weapons that are missing from ProjectE.
 
@@ -31,6 +36,16 @@ are of interest:
 - Some added, intuitive block placing mechanics for easier building and exploring.
 - Some changes to terrain generation
 - Totem of Holding for preserving your items on death
+
+### Supplementaries by MehVahdJukaar
+Similar to Quark, this just adds a bunch of things that help the world feel more
+lived in. Signs to villages, some decorative and functional items and an
+alternative source of string and wool in the form of Flax.
+
+### Farmer's Delight by vectorwing
+This adds some more farming and cooking options. Eventually the player will stop
+eating but since farming is a slow, but steady source of EMC the player is
+rewarded by finding various food sources.
 
 ### Map Atlases by lilypuree
 The most vanilla-feeling mapping solution I've seen. It keeps maps relevant and
@@ -61,6 +76,9 @@ if you don't like the look of ProjectE armour during endgame.
 
 ### Curios API by TheIllusiveC4
 Extra slots for items that one would usually equip.
+
+### Curious Elytra by TheIllusiveC4
+Allows the Elytra to fit on the Back curio slot, so you can still wear armour.
 
 ### Enchantment Descriptions by DarkhaxDev
 Shows what an enchantment does in tooltips, since there's no JEI.
@@ -93,5 +111,11 @@ These mods are dependencies only.
 ### Bookshelf by DarkhaxDev
 Dependency for Enchantment Descriptions
 
+### Caelus API by The TheIllusiveC4
+Dependency for Curious Elytra.
+
 ### Cloth Config API by shedaniel
 Used by default to configure Forge mods.
+
+### Selene Lib by MehVahdJukaar
+Dependency for Supplementaries

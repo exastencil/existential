@@ -5,7 +5,7 @@ renderBlacklist = []
 timeout = 300
 #The amount of milliseconds to wait before showing a 'fetch from server' info on the client (if the server is slow to respond) (-1 to disable this feature)
 #Range: -1 ~ 100000
-waitingForServerTimeout = 2000
+waitingForServerTimeout = -1
 #The maximum packet size to send an itemstack from client to server. Reduce this if you have issues with network lag caused by TOP
 #Range: -1 ~ 32768
 maxPacketToServer = 20000
@@ -27,7 +27,7 @@ showChestContentsDetailed = "NOT"
 #Show redstone (0 = not, 1 = always, 2 = sneak)
 showRedstone = "NORMAL"
 #Show mob health (0 = not, 1 = always, 2 = sneak)
-showMobHealth = "NORMAL"
+showMobHealth = "NOT"
 #Show time to adulthood for baby mobs (0 = not, 1 = always, 2 = sneak)
 showMobGrowth = "NORMAL"
 #Show mob potion effects (0 = not, 1 = always, 2 = sneak)
@@ -81,7 +81,7 @@ tooltipScale = 1.0
 chestContentsBorderColor = "ff006699"
 #0 means don't show break progress, 1 is show as bar, 2 is show as text
 #Range: 0 ~ 2
-showBreakProgress = 1
+showBreakProgress = 0
 #true means shows harvestability with vanilla style icons
 harvestStyleVanilla = true
 
