@@ -72,6 +72,7 @@ I want to disable it unless cheats are activated.
   - Iron
   - Redstone
   - Medium Covalence
+- Backpack (Iron / Leather)
 - Iron Band (Iron)
 - Iron Pickaxe
   - Diamond

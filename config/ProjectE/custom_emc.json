@@ -1,4 +1,84 @@
 {
-  "entries": [],
-  "__comment": "Use the in-game commands to edit this file"
+  "entries": [
+    {
+      "item": "minecraft:elytra",
+      "emc": 65536
+    },
+    {
+      "item": "quark:myalite",
+      "emc": 64
+    },
+    {
+      "item": "quark:dusky_myalite",
+      "emc": 64
+    },
+    {
+      "item": "quark:myalite_crystal",
+      "emc": 128
+    },
+    {
+      "item": "minecraft:dragon_head",
+      "emc": 32768
+    },
+    {
+      "item": "quark:jasper",
+      "emc": 16
+    },
+    {
+      "item": "quark:soul_bead",
+      "emc": 128
+    },
+    {
+      "item": "quark:limestone",
+      "emc": 16
+    },
+    {
+      "item": "quark:shale",
+      "emc": 16
+    },
+    {
+      "item": "supplementaries:ash_brick",
+      "emc": 16
+    },
+    {
+      "item": "#quark:corundum",
+      "emc": 128
+    },
+    {
+      "item": "quark:white_corundum_cluster",
+      "emc": 16
+    },
+    {
+      "item": "quark:red_corundum_cluster",
+      "emc": 16
+    },
+    {
+      "item": "quark:green_corundum_cluster",
+      "emc": 16
+    },
+    {
+      "item": "quark:orange_corundum_cluster",
+      "emc": 16
+    },
+    {
+      "item": "quark:indigo_corundum_cluster",
+      "emc": 16
+    },
+    {
+      "item": "quark:yellow_corundum_cluster",
+      "emc": 16
+    },
+    {
+      "item": "quark:violet_corundum_cluster",
+      "emc": 16
+    },
+    {
+      "item": "quark:blue_corundum_cluster",
+      "emc": 16
+    },
+    {
+      "item": "quark:black_corundum_cluster",
+      "emc": 16
+    }
+  ]
 }
