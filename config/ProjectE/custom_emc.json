@@ -79,6 +79,10 @@
     {
       "item": "quark:black_corundum_cluster",
       "emc": 16
+    },
+    {
+      "item": "farmersdelight:cabbage_leaf",
+      "emc": 8
     }
   ]
 }

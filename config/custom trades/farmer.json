@@ -2,6 +2,523 @@
   "profession": "farmer",
   "removeOtherTrades": true,
   "trades": [
+    {
+      "offer": {
+        "itemKey": "projecte:low_covalence_dust",
+        "amount": 48
+      },
+      "request": {
+        "itemKey": "minecraft:wheat",
+        "amount": 4
+      },
+      "tradeExp": 1,
+      "maxUses": 16,
+      "priceMultiplier": 0.01,
+      "demand": 10,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "projecte:low_covalence_dust",
+        "amount": 48
+      },
+      "request": {
+        "itemKey": "minecraft:potato",
+        "amount": 4
+      },
+      "tradeExp": 1,
+      "maxUses": 16,
+      "priceMultiplier": 0.01,
+      "demand": 10,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "projecte:low_covalence_dust",
+        "amount": 48
+      },
+      "request": {
+        "itemKey": "minecraft:carrot",
+        "amount": 4
+      },
+      "tradeExp": 1,
+      "maxUses": 16,
+      "priceMultiplier": 0.01,
+      "demand": 10,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "projecte:low_covalence_dust",
+        "amount": 48
+      },
+      "request": {
+        "itemKey": "minecraft:beetroot",
+        "amount": 4
+      },
+      "tradeExp": 1,
+      "maxUses": 16,
+      "priceMultiplier": 0.01,
+      "demand": 10,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "projecte:low_covalence_dust",
+        "amount": 48
+      },
+      "request": {
+        "itemKey": "minecraft:melon_slice",
+        "amount": 4
+      },
+      "tradeExp": 1,
+      "maxUses": 16,
+      "priceMultiplier": 0.01,
+      "demand": 10,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "projecte:low_covalence_dust",
+        "amount": 48
+      },
+      "request": {
+        "itemKey": "minecraft:sweet_berries",
+        "amount": 4
+      },
+      "tradeExp": 1,
+      "maxUses": 16,
+      "priceMultiplier": 0.01,
+      "demand": 10,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "projecte:low_covalence_dust",
+        "amount": 48
+      },
+      "request": {
+        "itemKey": "farmersdelight:cabbage",
+        "amount": 4
+      },
+      "tradeExp": 1,
+      "maxUses": 16,
+      "priceMultiplier": 0.01,
+      "demand": 10,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "projecte:low_covalence_dust",
+        "amount": 48
+      },
+      "request": {
+        "itemKey": "farmersdelight:onion",
+        "amount": 4
+      },
+      "tradeExp": 1,
+      "maxUses": 16,
+      "priceMultiplier": 0.01,
+      "demand": 10,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "projecte:low_covalence_dust",
+        "amount": 48
+      },
+      "request": {
+        "itemKey": "farmersdelight:tomato",
+        "amount": 4
+      },
+      "tradeExp": 1,
+      "maxUses": 16,
+      "priceMultiplier": 0.01,
+      "demand": 10,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "projecte:low_covalence_dust",
+        "amount": 48
+      },
+      "request": {
+        "itemKey": "farmersdelight:rice",
+        "amount": 4
+      },
+      "tradeExp": 1,
+      "maxUses": 16,
+      "priceMultiplier": 0.01,
+      "demand": 10,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:bread",
+        "amount": 2
+      },
+      "request": {
+        "itemKey": "projecte:low_covalence_dust",
+        "amount": 48
+      },
+      "tradeExp": 1,
+      "maxUses": 16,
+      "priceMultiplier": 0.16,
+      "demand": 10,
+      "tradeLevel": 1
+    },
 
+
+    {
+      "offer": {
+        "itemKey": "projecte:medium_covalence_dust",
+        "amount": 30
+      },
+      "request": {
+        "itemKey": "farmersdelight:pumpkin_slice",
+        "amount": 8
+      },
+      "tradeExp": 4,
+      "maxUses": 8,
+      "priceMultiplier": 0.01,
+      "demand": 10,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "projecte:medium_covalence_dust",
+        "amount": 15
+      },
+      "request": {
+        "itemKey": "minecraft:pumpkin",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.01,
+      "demand": 10,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "projecte:medium_covalence_dust",
+        "amount": 15
+      },
+      "request": {
+        "itemKey": "farmersdelight:cabbage_crate",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.01,
+      "demand": 10,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "projecte:medium_covalence_dust",
+        "amount": 15
+      },
+      "request": {
+        "itemKey": "farmersdelight:onion_crate",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.01,
+      "demand": 10,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "projecte:medium_covalence_dust",
+        "amount": 15
+      },
+      "request": {
+        "itemKey": "farmersdelight:tomato_crate",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.01,
+      "demand": 10,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "projecte:medium_covalence_dust",
+        "amount": 15
+      },
+      "request": {
+        "itemKey": "farmersdelight:rice_bag",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.01,
+      "demand": 10,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "projecte:medium_covalence_dust",
+        "amount": 15
+      },
+      "request": {
+        "itemKey": "farmersdelight:carrot_crate",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.01,
+      "demand": 10,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "projecte:medium_covalence_dust",
+        "amount": 15
+      },
+      "request": {
+        "itemKey": "farmersdelight:potato_crate",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.01,
+      "demand": 10,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "projecte:medium_covalence_dust",
+        "amount": 15
+      },
+      "request": {
+        "itemKey": "farmersdelight:beetroot_crate",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.01,
+      "demand": 10,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:pumpkin_pie",
+        "amount": 2
+      },
+      "request": {
+        "itemKey": "projecte:medium_covalence_dust",
+        "amount": 54
+      },
+      "tradeExp": 2,
+      "maxUses": 24,
+      "priceMultiplier": 0.06,
+      "demand": 10,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:apple",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "projecte:medium_covalence_dust",
+        "amount": 20
+      },
+      "tradeExp": 1,
+      "maxUses": 64,
+      "priceMultiplier": 0.02,
+      "demand": 10,
+      "tradeLevel": 2
+    },
+
+
+    {
+      "offer": {
+        "itemKey": "projecte:medium_covalence_dust",
+        "amount": 15
+      },
+      "request": {
+        "itemKey": "minecraft:melon",
+        "amount": 1
+      },
+      "tradeExp": 5,
+      "maxUses": 16,
+      "priceMultiplier": 0.01,
+      "demand": 10,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:cookie",
+        "amount": 4
+      },
+      "request": {
+        "itemKey": "projecte:medium_covalence_dust",
+        "amount": 8
+      },
+      "tradeExp": 2,
+      "maxUses": 45,
+      "priceMultiplier": 0.02,
+      "demand": 10,
+      "tradeLevel": 3
+    },
+
+
+    {
+      "offer": {
+        "itemKey": "minecraft:cake",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "projecte:medium_covalence_dust",
+        "amount": 20
+      },
+      "tradeExp": 15,
+      "maxUses": 12,
+      "priceMultiplier": 0.04,
+      "demand": 10,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:beetroot_seeds",
+        "amount": 8
+      },
+      "request": {
+        "itemKey": "projecte:medium_covalence_dust",
+        "amount": 24
+      },
+      "tradeExp": 12,
+      "maxUses": 8,
+      "priceMultiplier": 0.06,
+      "demand": 10,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:melon_seeds",
+        "amount": 8
+      },
+      "request": {
+        "itemKey": "projecte:medium_covalence_dust",
+        "amount": 24
+      },
+      "tradeExp": 12,
+      "maxUses": 8,
+      "priceMultiplier": 0.06,
+      "demand": 10,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:pumpkin_seeds",
+        "amount": 8
+      },
+      "request": {
+        "itemKey": "projecte:medium_covalence_dust",
+        "amount": 24
+      },
+      "tradeExp": 12,
+      "maxUses": 8,
+      "priceMultiplier": 0.06,
+      "demand": 10,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "farmersdelight:tomato_seeds",
+        "amount": 8
+      },
+      "request": {
+        "itemKey": "projecte:medium_covalence_dust",
+        "amount": 24
+      },
+      "tradeExp": 12,
+      "maxUses": 8,
+      "priceMultiplier": 0.06,
+      "demand": 10,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "farmersdelight:cabbage_seeds",
+        "amount": 8
+      },
+      "request": {
+        "itemKey": "projecte:medium_covalence_dust",
+        "amount": 24
+      },
+      "tradeExp": 12,
+      "maxUses": 8,
+      "priceMultiplier": 0.06,
+      "demand": 10,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "farmersdelight:onion",
+        "amount": 8
+      },
+      "request": {
+        "itemKey": "projecte:medium_covalence_dust",
+        "amount": 24
+      },
+      "tradeExp": 12,
+      "maxUses": 8,
+      "priceMultiplier": 0.06,
+      "demand": 10,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "farmersdelight:rice",
+        "amount": 8
+      },
+      "request": {
+        "itemKey": "projecte:medium_covalence_dust",
+        "amount": 24
+      },
+      "tradeExp": 12,
+      "maxUses": 8,
+      "priceMultiplier": 0.06,
+      "demand": 10,
+      "tradeLevel": 4
+    },
+
+
+    {
+      "offer": {
+        "itemKey": "minecraft:golden_carrot",
+        "amount": 3
+      },
+      "request": {
+        "itemKey": "projecte:high_covalence_dust",
+        "amount": 36
+      },
+      "tradeExp": 30,
+      "maxUses": 12,
+      "priceMultiplier": 0.06,
+      "demand": 10,
+      "tradeLevel": 5
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:glistering_melon_slice",
+        "amount": 3
+      },
+      "request": {
+        "itemKey": "projecte:high_covalence_dust",
+        "amount": 36
+      },
+      "tradeExp": 30,
+      "maxUses": 12,
+      "priceMultiplier": 0.06,
+      "demand": 10,
+      "tradeLevel": 5
+    }
   ]
 }
