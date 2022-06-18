@@ -13,12 +13,20 @@
 		#Maps smithing recipes.
 		enabled = true
 
+	[CraftingMapper.FarmersDelightCuttingBoardMapper]
+		#ProjectE-Integration Recipe Mapper for Farmers Delight Cutting Board Mapper. Required Mods: [farmersdelight]
+		enabled = true
+
 	[CraftingMapper.FallbackRecipeType]
 		#Fallback for default handling of recipes that extend ICraftingRecipe, AbstractCookingRecipe, SingleItemRecipe, or SmithingRecipe. This will catch modded extensions of the vanilla recipe classes, and if the VanillaRecipeTypes mapper is disabled, this mapper will still catch the vanilla recipes.
 		enabled = true
 
 	[CraftingMapper.VanillaRecipeTypes]
 		#Maps the different vanilla recipe types.
+		enabled = true
+
+	[CraftingMapper.FarmersDelightCookingPotMapper]
+		#ProjectE-Integration Recipe Mapper for Farmers Delight Cooking Pot Mapper. Required Mods: [farmersdelight]
 		enabled = true
 
 [enabledMappers]
@@ -36,6 +44,8 @@
 	WeatheredCopperMapper = true
 	#Add Conversions for Brewing Recipes
 	BrewingMapper = true
+	#Recipe mapper for custom recipes that don't implement IRecipe
+	ProjectEIntegrationRecipeMapper = true
 	#Uses the `custom_emc.json` File to add EMC values.
 	CustomEMCMapper = true
 	#Allows other mods to easily set EMC values using the ProjectEAPI

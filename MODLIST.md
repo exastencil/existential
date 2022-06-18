@@ -26,6 +26,19 @@ transmutation, especially later when items cost millions of EMC.
 ### ProjectExtended by pupnewfster
 Adds some extra tools and weapons that are missing from ProjectE.
 
+### ProjectE Interation by TagnumElite
+Mainly for the mappers for Farmer's Delight
+
+### Custom Villager Trades by SpaceCat_97
+This removes all the vanilla and modded trades and replaces them with EMC
+appropriate ones. I've found that no activity generates EMC quite as fast as
+trading with villagers, since emeralds have such a high covalence. Instead,
+trades will always favour the villager and use covalence dusts as a currency.
+
+### Guard Villagers by almightytallestred
+Gives you more incentive to spend time in villages or live near a village.
+Trading with villagers builds reputation allowing you to improve guard gear.
+
 ### Quark by Vazkii
 Quark changes a lot of small things about the game. The following, in particular
 are of interest:
@@ -51,6 +64,9 @@ rewarded by finding various food sources.
 The most vanilla-feeling mapping solution I've seen. It keeps maps relevant and
 still requires you to plan and be conscious of where you are.
 
+### KubeJS by LatvianModder
+This is used generally to modify disable or add recipes.
+
 ## Quality of Life
 
 These mods add conveniences that generally improve the feel of the pack or adds
@@ -58,6 +74,12 @@ to the enjoyment by streamlining the gameplay.
 
 ### AppleSkin by squeek502
 Shows hunger and saturation, as well as the results of eating held food.
+
+### AmbientSounds 5 by CreativeMD
+Just adds better sound to the game.
+
+### Better Recipe Books (+ Brewing Stands) by marshycity
+To add pinning and scrolling to recipe books so we don't need JEI.
 
 ### Chalk by mortuus_art
 Helps you find your way in caves and the nether without developing a torch
@@ -103,6 +125,11 @@ need the backpack any more.
 ### The One Probe by McJty
 Only the simplest of tooltips, since there isn't much in the way of advanced
 mods in the pack.
+
+### Trade Cycling by henkelmax
+Allows you to cycle trades more quickly. Since you can do it anyway, this is
+just faster. All trades will be custom to ensure none are EMC exploits and
+significant trades are more likely to be higher tier anyway.
 
 ## Dependencies
 
