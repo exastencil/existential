@@ -87,6 +87,18 @@
     {
       "item": "minecraft:mushroom_stem",
       "emc": 288
+    },
+    {
+      "item": "#quark:runes",
+      "emc": 1025
+    },
+    {
+      "item": "minecraft:wither_skeleton_skull",
+      "emc": 12600
+    },
+    {
+      "item": "quark:diamond_heart",
+      "emc": 32768
     }
   ]
 }
