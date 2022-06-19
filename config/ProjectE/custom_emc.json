@@ -139,6 +139,10 @@
     {
       "item": "minecraft:globe_banner_pattern",
       "emc": 24000
+    },
+    {
+      "item": "farmersdelight:straw",
+      "emc": 4
     }
   ]
 }

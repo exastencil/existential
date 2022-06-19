@@ -19,18 +19,19 @@ onEvent("recipes", recipe => {
     'minecraft:iron_ingot'
   ]).keepIngredient('projecte:philosophers_stone');
 
-  // Quark Backpack more easily craftable (as per Bliss)
-  //  - not needed because it is the default
-  // recipe.remove({ output: "quark:backpack" });
-  // recipe.shaped('quark:backpack', [
-  //     'LIL',
-  //     'LCL',
-  //     'LIL'
-  // ], {
-  //     L: 'minecraft:leather',
-  //     I: 'minecraft:iron',
-  //     C: 'minecraft:chest'
-  // });
+  // Unify Ropes to use Supplementaries Rope
+  recipe.replaceInput({}, 'farmersdelight:rope', 'supplementaries:rope');
+  recipe.replaceInput({}, 'quark:rope', 'supplementaries:rope');
+  recipe.remove({ output: "farmersdelight:rope" });
+  recipe.remove({ output: "quark:rope" });
+
+  // More sensible Rope and Nail recipe
+  recipe.shapeless('2x comforts:rope_and_nail', [
+    'supplementaries:rope',
+    'supplementaries:rope',
+    'minecraft:iron_nugget',
+    'minecraft:iron_nugget'
+  ]);
 
   // Craftable Gilded Blackstone
   recipe.shapeless('minecraft:gilded_blackstone', [
