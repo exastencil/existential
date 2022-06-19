@@ -143,6 +143,10 @@
     {
       "item": "farmersdelight:straw",
       "emc": 4
+    },
+    {
+      "item": "minecraft:experience_bottle",
+      "emc": 128
     }
   ]
 }
