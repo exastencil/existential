@@ -131,6 +131,14 @@
     {
       "item": "quark:crab_leg",
       "emc": 64
+    },
+    {
+      "item": "minecraft:piglin_banner_pattern",
+      "emc": 24000
+    },
+    {
+      "item": "minecraft:globe_banner_pattern",
+      "emc": 24000
     }
   ]
 }
