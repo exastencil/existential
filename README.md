@@ -65,6 +65,12 @@ I want to disable it unless cheats are activated.
 
 ## Typical Progression
 
+Presently, you start with a *Philosopher's Stone*, but not a *Transmutation Table*. This makes Diamond obtainable, by mining surface ores and alchemical fuels obtainable by only mining Coal. In other words you can substitute quality with quantity if you find that more enjoyable.
+
+Outside regular Minecraft progression (Wood / Leather -> Netherite) functional content is gated behind other resources; mainly Redstone, Glowstone, Lapis, Blaze Rods, Nether Wart, etc. These can be obtained in a number of ways other than mining, e.g. trading.
+
+Core to the experience is that there should be a defined progression goal, but not a defined progression path. If you want diamond tools so you can terraform to build your starter house, you can do it without going into a cave.
+
 - Wood Pickaxe
   - Stone / Coal
   - Low Covalence
