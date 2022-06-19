@@ -99,6 +99,38 @@
     {
       "item": "quark:diamond_heart",
       "emc": 32768
+    },
+    {
+      "item": "quark:chorus_weeds",
+      "emc": 1
+    },
+    {
+      "item": "quark:chorus_twist",
+      "emc": 1
+    },
+    {
+      "item": "quark:glow_shroom",
+      "emc": 32
+    },
+    {
+      "item": "quark:glow_shroom_block",
+      "emc": 288
+    },
+    {
+      "item": "quark:glow_shroom_stem",
+      "emc": 288
+    },
+    {
+      "item": "quark:glow_shroom_ring",
+      "emc": 48
+    },
+    {
+      "item": "quark:frog_leg",
+      "emc": 64
+    },
+    {
+      "item": "quark:crab_leg",
+      "emc": 64
     }
   ]
 }
