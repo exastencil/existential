@@ -31,4 +31,29 @@ onEvent("recipes", recipe => {
   //     I: 'minecraft:iron',
   //     C: 'minecraft:chest'
   // });
+
+  // Craftable Gilded Blackstone
+  recipe.shapeless('minecraft:gilded_blackstone', [
+    'minecraft:blackstone',
+    'minecraft:gold_nugget',
+    'minecraft:gold_nugget',
+    'minecraft:gold_nugget',
+    'minecraft:gold_nugget'
+  ]);
+
+  // Craftable mushroom blocks
+  recipe.shaped('minecraft:red_mushroom_block', [
+    'MMM',
+    'MMM',
+    'MMM'
+  ], {
+    M: 'minecraft:red_mushroom'
+  });
+  recipe.shaped('minecraft:brown_mushroom_block', [
+    'MMM',
+    'MMM',
+    'MMM'
+  ], {
+    M: 'minecraft:brown_mushroom'
+  });
 });

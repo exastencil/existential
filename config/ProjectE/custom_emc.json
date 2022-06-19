@@ -83,6 +83,10 @@
     {
       "item": "farmersdelight:cabbage_leaf",
       "emc": 8
+    },
+    {
+      "item": "minecraft:mushroom_stem",
+      "emc": 288
     }
   ]
 }
