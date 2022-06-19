@@ -98,6 +98,21 @@
         "amount": 48
       },
       "request": {
+        "itemKey": "supplementaries:flax",
+        "amount": 4
+      },
+      "tradeExp": 1,
+      "maxUses": 16,
+      "priceMultiplier": 0.01,
+      "demand": 10,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "projecte:low_covalence_dust",
+        "amount": 48
+      },
+      "request": {
         "itemKey": "farmersdelight:cabbage",
         "amount": 4
       },
@@ -296,6 +311,36 @@
       },
       "request": {
         "itemKey": "farmersdelight:beetroot_crate",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.01,
+      "demand": 10,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "projecte:medium_covalence_dust",
+        "amount": 15
+      },
+      "request": {
+        "itemKey": "minecraft:hay_block",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.01,
+      "demand": 10,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "projecte:medium_covalence_dust",
+        "amount": 15
+      },
+      "request": {
+        "itemKey": "supplementaries:flax_block",
         "amount": 1
       },
       "tradeExp": 2,

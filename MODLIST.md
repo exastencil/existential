@@ -104,6 +104,8 @@ Allows you to cycle trades more quickly. Since you can do it anyway, this is jus
 
 These mods are dependencies only.
 
+### Architectury API by shedaniel
+
 ### Bookshelf by DarkhaxDev
 Dependency for Enchantment Descriptions
 
@@ -112,6 +114,9 @@ Dependency for Curious Elytra.
 
 ### Cloth Config API by shedaniel
 Used by default to configure Forge mods.
+
+### CreativeCore by CreativeMD
+Dependency for AmbientSounds 5
 
 ### Rhino by LatvianDev
 Dependency for KubeJS.
