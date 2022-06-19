@@ -2,6 +2,157 @@
   "profession": "fisherman",
   "removeOtherTrades": true,
   "trades": [
+    {
+      "offer": {
+        "itemKey": "projecte:low_covalence_dust",
+        "amount": 48
+      },
+      "request": {
+        "itemKey": "minecraft:cod",
+        "amount": 1
+      },
+      "tradeExp": 1,
+      "maxUses": 16,
+      "priceMultiplier": 0.01,
+      "demand": 10,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "projecte:low_covalence_dust",
+        "amount": 48
+      },
+      "request": {
+        "itemKey": "minecraft:salmon",
+        "amount": 1
+      },
+      "tradeExp": 1,
+      "maxUses": 16,
+      "priceMultiplier": 0.01,
+      "demand": 10,
+      "tradeLevel": 1
+    },
+    {
+      "multiOffer": [
+        {
+        "itemKey": "minecraft:cod",
+        "amount": 1
+        },
+        {
+          "itemKey": "minecraft:salmon",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "projecte:medium_covalence_dust",
+        "amount": 12
+      },
+      "tradeExp": 1,
+      "maxUses": 16,
+      "priceMultiplier": 0.04,
+      "demand": 10,
+      "tradeLevel": 1
+    },
+
+
+    {
+      "offer": {
+        "itemKey": "projecte:low_covalence_dust",
+        "amount": 48
+      },
+      "request": {
+        "itemKey": "minecraft:cooked_cod",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 64,
+      "priceMultiplier": 0.01,
+      "demand": 10,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "projecte:low_covalence_dust",
+        "amount": 48
+      },
+      "request": {
+        "itemKey": "minecraft:cooked_salmon",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 64,
+      "priceMultiplier": 0.01,
+      "demand": 10,
+      "tradeLevel": 2
+    },
+    {
+      "multiOffer": [
+        {
+        "itemKey": "minecraft:cooked_cod",
+        "amount": 1
+        },
+        {
+          "itemKey": "minecraft:cooked_salmon",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "projecte:medium_covalence_dust",
+        "amount": 12
+      },
+      "tradeExp": 3,
+      "maxUses": 16,
+      "priceMultiplier": 0.04,
+      "demand": 10,
+      "tradeLevel": 2
+    },
+
+
+    {
+      "offer": {
+        "itemKey": "projecte:medium_covalence_dust",
+        "amount": 64
+      },
+      "request": {
+        "itemKey": "farmersdelight:cod_slice",
+        "amount": 32
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.06,
+      "demand": 10,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "projecte:medium_covalence_dust",
+        "amount": 64
+      },
+      "request": {
+        "itemKey": "farmersdelight:salmon_slice",
+        "amount": 32
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.06,
+      "demand": 10,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "farmersdelight:stove",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "projecte:high_covalence_dust",
+        "amount": 8
+      },
+      "tradeExp": 20,
+      "maxUses": 5,
+      "priceMultiplier": 0.02,
+      "demand": 10,
+      "tradeLevel": 3
+    }
 
   ]
 }
