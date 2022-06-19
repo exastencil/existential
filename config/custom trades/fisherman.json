@@ -229,6 +229,10 @@
         "itemKey": "projecte:high_covalence_dust",
         "amount": 9
       },
+      "additionalRequest": {
+        "itemKey": "minecraft:water_bucket",
+        "amount": 1
+      },
       "tradeExp": 20,
       "maxUses": 12,
       "priceMultiplier": 0.03,
