@@ -2,6 +2,174 @@
   "profession": "fletcher",
   "removeOtherTrades": true,
   "trades": [
+    {
+      "offer": {
+        "itemKey": "projecte:low_covalence_dust",
+        "amount": 64
+      },
+      "request": {
+        "itemKey": "minecraft:stick",
+        "amount": 24
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.08,
+      "demand": 10,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:arrow",
+        "amount": 4
+      },
+      "request": {
+        "itemKey": "projecte:low_covalence_dust",
+        "amount": 64
+      },
+      "tradeExp": 1,
+      "maxUses": 24,
+      "priceMultiplier": 0.08,
+      "demand": 10,
+      "tradeLevel": 1
+    },
 
+
+    {
+      "offer": {
+        "itemKey": "projecte:medium_covalence_dust",
+        "amount": 8
+      },
+      "request": {
+        "itemKey": "minecraft:feather",
+        "amount": 1
+      },
+      "tradeExp": 1,
+      "maxUses": 384,
+      "priceMultiplier": 0.01,
+      "demand": 10,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:bow",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "projecte:low_covalence_dust",
+        "amount": 64
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.08,
+      "demand": 10,
+      "tradeLevel": 2
+    },
+
+
+    {
+      "offer": {
+        "itemKey": "projecte:low_covalence_dust",
+        "amount": 64
+      },
+      "request": {
+        "itemKey": "minecraft:flint",
+        "amount": 24
+      },
+      "tradeExp": 10,
+      "maxUses": 12,
+      "priceMultiplier": 0.08,
+      "demand": 10,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:crossbow",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "projecte:medium_covalence_dust",
+        "amount": 64
+      },
+      "tradeExp": 10,
+      "maxUses": 12,
+      "priceMultiplier": 0.04,
+      "demand": 10,
+      "tradeLevel": 3
+    },
+
+
+    {
+      "offer": {
+        "itemKey": "projecte:medium_covalence_dust",
+        "amount": 8
+      },
+      "request": {
+        "itemKey": "minecraft:arrow",
+        "amount": 6
+      },
+      "tradeExp": 10,
+      "maxUses": 12,
+      "priceMultiplier": 0.02,
+      "demand": 10,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:bow",
+        "amount": 1,
+        "enchantments": [{
+          "enchantmentKey": "random",
+          "enchantmentLevel": -1
+        }]
+      },
+      "request": {
+        "itemKey": "projecte:aeternalis_fuel",
+        "amount": 1
+      },
+      "tradeExp": 15,
+      "maxUses": 3,
+      "priceMultiplier": 0.01,
+      "demand": 10,
+      "tradeLevel": 4
+    },
+
+
+    {
+      "offer": {
+        "itemKey": "minecraft:spectral_arrow",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "projecte:high_covalence_dust",
+        "amount": 6
+      },
+      "tradeExp": 5,
+      "maxUses": 64,
+      "priceMultiplier": 0.02,
+      "demand": 10,
+      "tradeLevel": 5
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:tipped_arrow",
+        "amount": 4,
+        "effects": [{
+          "potionKey": "random"
+        }]
+      },
+      "request": {
+        "itemKey": "projecte:high_covalence_dust",
+        "amount": 6
+      },
+      "additionalRequest": {
+        "itemKey": "minecraft:arrow",
+        "amount": 4
+      },
+      "tradeExp": 30,
+      "maxUses": 10,
+      "priceMultiplier": 0.01,
+      "demand": 10,
+      "tradeLevel": 5
+    }
   ]
 }
