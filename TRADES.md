@@ -32,23 +32,22 @@ Crafting potions still requires that you go to the Nether for Nether Wart and Bl
 
 Ender Pearls are removed, because they have no bearing on brewing and are easily obtained through the Philosopher's Stone.
 
-In keeping with the progression theme, this villager has guaranteed trades for Low, Medium and High right up front. Also, in keeping with the brewing theme, they will sell one random potion at Master level.
+In keeping with the progression theme, this villager has guaranteed trades for Low, Medium and High early. Also, in keeping with the brewing theme, they will sell one random potion at Novice level so it can be cycled, like Enchanted books.
 
 - Novice
-  - Buys Glass Bottle for Low
-  - Buys Rotten Flesh for Medium
-- Apprentice
-  - Buys Gold Ingot for High
-  - Sells Redstone Dust
-- Journeyman
-  - Buys Blaze Powder (*indicates to the player this is needed for progression*)
-  - Sells Lapis Lazuli
-- Expert
-  - Buys Nether Wart (*indicates to the player this is needed for progression*)
-  - Sells Glowstone
-- Master
+  - Buys Glass Bottle for Low Covalence Dust (*exploration / crafting source of low dust*)
   - Sells random Potion (*can be transmuted to avoid brewing if you prefer trading*)
-  - Sells Bottle o' Enchanting (*can be transmuted to gain experience*)
+- Apprentice
+  - Buys Rotten Flesh for Medium Covalence Dust (*combat source of medium dust*)
+  - Sells Redstone Dust for Medium Covalence Dust (*allows alternative progression via trading*)
+- Journeyman
+  - Buys Blaze Powder for High Covalence Dust (*indicates to the player this is needed for progression*)
+  - Sells Lapis Lazuli for High Covalence Dust (*allows alternative progression via trading*)
+- Expert
+  - Buys Nether Wart for Medium Covalence Dust (*indicates to the player this is needed for progression*)
+  - Sells Glowstone for High Covalence Dust (*allows alternative progression via trading*)
+- Master
+  - Sells Bottle o' Enchanting for High Covalence Dust (*can be transmuted to gain experience*)
 
 ## Farmer
 
