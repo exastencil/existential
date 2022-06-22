@@ -147,6 +147,10 @@
     {
       "item": "minecraft:experience_bottle",
       "emc": 128
+    },
+    {
+      "item": "farmersdelight:rotten_tomato",
+      "emc": 16
     }
   ]
 }
