@@ -82,6 +82,25 @@ In keeping with the progression theme, this villager has guaranteed trades for L
 - Master
   - Sells Bottle o' Enchanting for High Covalence Dust (*can be transmuted to gain experience*)
 
+## Cartographer
+
+While I considered somehow adding hints to atlases in the Cartographer's trades, generated Atlases just wouldn't work. So for now their trades are just the standard trades match to resonable EMC values. Glass Panes were switched for Glass, since panes don't have an EMC value.
+
+- Novice
+  - Buys Paper for Medium Dust
+  - Sells Empty Maps for High Dust
+- Apprentice
+  - Buys Glass for Low Dust
+  - Sells Filled Map for High Dust and a Compass
+- Journeyman
+  - Buys Compass for High Dust
+  - Sells another Filled Map for High Dust and a Compass
+- Expert
+  - Sells Item Frame for Medium Dust
+  - Sells a random coloured Banner for Medium Dust
+- Master
+  - Sells Globe Banner Pattern for High Dust
+
 ## Farmer
 
 - Novice

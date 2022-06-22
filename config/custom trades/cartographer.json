@@ -1,7 +1,210 @@
 {
-  "profession": "cartographer",
-  "removeOtherTrades": true,
-  "trades": [
-
-  ]
+	"profession": "cartographer",
+	"removeOtherTrades": true,
+	"trades": [{
+			"offer": {
+				"itemKey": "projecte:medium_covalence_dust",
+				"amount": 64
+			},
+			"request": {
+				"itemKey": "minecraft:paper",
+				"amount": 24
+			},
+			"tradeExp": 2,
+			"maxUses": 16,
+			"priceMultiplier": 0.05,
+			"demand": 10,
+			"tradeLevel": 1
+		},
+		{
+			"offer": {
+				"itemKey": "minecraft:map",
+				"amount": 1
+			},
+			"request": {
+				"itemKey": "projecte:high_covalence_dust",
+				"amount": 12
+			},
+			"tradeExp": 1,
+			"maxUses": 12,
+			"priceMultiplier": 0.04,
+			"demand": 10,
+			"tradeLevel": 1
+		},
+		{
+			"offer": {
+				"itemKey": "projecte:low_covalence_dust",
+				"amount": 3
+			},
+			"request": {
+				"itemKey": "minecraft:glass",
+				"amount": 6
+			},
+			"tradeExp": 10,
+			"maxUses": 16,
+			"priceMultiplier": 0.02,
+			"demand": 10,
+			"tradeLevel": 2
+		},
+		{
+			"offer": {
+				"itemKey": "minecraft:filled_map",
+				"amount": 1
+			},
+			"request": {
+				"itemKey": "projecte:high_covalence_dust",
+				"amount": 32
+			},
+				"additionalRequest": {
+				"itemKey": "minecraft:compass",
+				"amount": 1
+			},
+			"tradeExp": 5,
+			"maxUses": 12,
+			"priceMultiplier": 0.02,
+			"demand": 10,
+			"tradeLevel": 2
+		},
+		{
+			"offer": {
+				"itemKey": "projecte:high_covalence_dust",
+				"amount": 4
+			},
+			"request": {
+				"itemKey": "minecraft:compass",
+				"amount": 1
+			},
+			"tradeExp": 20,
+			"maxUses": 12,
+			"priceMultiplier": 0.05,
+			"demand": 10,
+			"tradeLevel": 3
+		},
+		{
+			"offer": {
+				"itemKey": "minecraft:filled_map",
+				"amount": 1
+			},
+			"request": {
+				"itemKey": "projecte:high_covalence_dust",
+				"amount": 32
+			},
+				"additionalRequest": {
+				"itemKey": "minecraft:compass",
+				"amount": 1
+			},
+			"tradeExp": 10,
+			"maxUses": 12,
+			"priceMultiplier": 0.02,
+			"demand": 10,
+			"tradeLevel": 3
+		},
+		{
+			"offer": {
+				"itemKey": "minecraft:item_frame",
+				"amount": 1
+			},
+			"request": {
+				"itemKey": "projecte:medium_covalence_dust",
+				"amount": 16
+			},
+			"tradeExp": 15,
+			"maxUses": 12,
+			"priceMultiplier": 0.04,
+			"demand": 10,
+			"tradeLevel": 4
+		},
+		{
+			"multiOffer": [
+			{
+				"itemKey": "minecraft:white_banner",
+				"amount": 1
+			},
+			{
+				"itemKey": "minecraft:orange_banner",
+				"amount": 1
+			},
+			{
+				"itemKey": "minecraft:magenta_banner",
+				"amount": 1
+			},
+			{
+				"itemKey": "minecraft:light_blue_banner",
+				"amount": 1
+			},
+			{
+				"itemKey": "minecraft:yellow_banner",
+				"amount": 1
+			},
+			{
+				"itemKey": "minecraft:lime_banner",
+				"amount": 1
+			},
+			{
+				"itemKey": "minecraft:pink_banner",
+				"amount": 1
+			},
+			{
+				"itemKey": "minecraft:gray_banner",
+				"amount": 1
+			},
+			{
+				"itemKey": "minecraft:light_gray_banner",
+				"amount": 1
+			},
+			{
+				"itemKey": "minecraft:cyan_banner",
+				"amount": 1
+			},
+			{
+				"itemKey": "minecraft:purple_banner",
+				"amount": 1
+			},
+			{
+				"itemKey": "minecraft:blue_banner",
+				"amount": 1
+			},
+			{
+				"itemKey": "minecraft:brown_banner",
+				"amount": 1
+			},
+			{
+				"itemKey": "minecraft:green_banner",
+				"amount": 1
+			},
+			{
+				"itemKey": "minecraft:red_banner",
+				"amount": 1
+			},
+			{
+				"itemKey": "minecraft:black_banner",
+				"amount": 1
+			}
+		],
+			"request": {
+				"itemKey": "projecte:medium_covalence_dust",
+				"amount": 48
+			},
+			"tradeExp": 15,
+			"maxUses": 12,
+			"priceMultiplier": 0.06,
+			"demand": 10,
+			"tradeLevel": 4
+		},
+		{
+			"offer": {
+				"itemKey": "minecraft:globe_banner_pattern",
+				"amount": 1
+			},
+			"request": {
+				"itemKey": "projecte:high_covalence_dust",
+				"amount": 64
+			},
+			"tradeExp": 30,
+			"maxUses": 12,
+			"priceMultiplier": 0.01,
+			"demand": 10,
+			"tradeLevel": 5
+		}
+	]
 }
