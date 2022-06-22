@@ -24,6 +24,39 @@ Since coal has too high an EMC value for Low Covalence Dust, I used the opportun
   - Buys Diamond for High Covalence Dust
   - Sells Enchanted Diamond Armor for Aeternalis Fuel
 
+## Butcher
+
+The butcher trades have been adjusted to make a little more sense for his trade. Butchers sell meat, not meals, so I made them buy whole carcasses and sell butchered cuts wherever I could, thanks to Farmer's Delight. The progression also hints to the player that there are ways to make the mear go further and to make better meals, e.g. using Smoked Ham instead of Porchops.
+
+Since, generally speaking, these foods give better hunger and saturation we indicate that they are better to the player by rewarding the player with Medium Covalence Dust right away as opposed to the farmer's Low Covalence Dust.
+
+The fuels are left in mainly to help you unlock trades, since you might have a small village. Almost all trades are medium dust except Kelp Blocks as a way to obtain low dust and smoked ham requires high dust, which you may need to get from another villager.
+
+- Novice
+  - Buys Charcoal for Medium Dust (*incentivises players to learn charcoal*)
+  - Buys Raw Chicken for Medium Dust
+  - Buys Raw Rabbit for Medium Dust
+  - Sells Rabbit Stew for Medium Dust
+  - Sells Raw Chicken Cuts for Medium Dust
+- Apprentice
+  - Buys Coal for Medium Dust
+  - Buys Raw Porkchop for Medium Dust
+  - Buys Raw Mutton for Medium Dust
+  - Sells Raw Mutton Chops for Medium Dust
+  - Sells Raw Bacon for Medium Dust
+- Journeyman
+  - Buys Dried Kelp Block for Low Dust
+  - Buys Raw Beef for Medium Dust
+  - Sells Minced Beef for Medium Dust
+- Expert
+  - Buys Sweet Berries for Medium Dust
+  - Buys Ham for Medium Dust (*teaches players to use the knife when slaughtering animals*)
+  - Sells Barbecue on a Stick for High Dust
+- Master
+  - Buys Raw Crab Leg for Medium Dust
+  - Buys Raw Frog Leg for Medium Dust
+  - Sells Smoked Ham for High Dust
+
 ## Cleric
 
 The Cleric seems to be designed as a progression villager with a potion brewer theme, giving you access to Redstone, Lapis, Glowstone and Ender Pearls simply by trading. ProjectE gates you with Redstone, Glowstone and Diamonds to get a Transmutation Table, so access to Redstone and Glowstone through this is quite impactful. In our case, we start with a Philosopher's Stone, so it isn't as big a deal, but being able to make a replacement if you lose yours is still important.
