@@ -1,7 +1,242 @@
 {
-  "profession": "leatherworker",
-  "removeOtherTrades": true,
-  "trades": [
+	"profession": "leatherworker",
+	"removeOtherTrades": true,
+	"trades": [
+		{
+			"offer": {
+				"itemKey": "minecraft:leather_leggings",
+				"amount": 1
+			},
+			"request": {
+				"itemKey": "projecte:medium_covalence_dust",
+				"amount": 56
+			},
+			"tradeExp": 1,
+			"maxUses": 12,
+			"priceMultiplier": 0.08,
+			"demand": 10,
+			"tradeLevel": 1
+		},
+		{
+			"offer": {
+				"itemKey": "minecraft:leather_chestplate",
+				"amount": 1
+			},
+			"request": {
+				"itemKey": "projecte:medium_covalence_dust",
+				"amount": 64
+			},
+			"tradeExp": 1,
+			"maxUses": 12,
+			"priceMultiplier": 0.12,
+			"demand": 10,
+			"tradeLevel": 1
+		},
 
-  ]
+
+		{
+			"offer": {
+				"itemKey": "minecraft:leather_helmet",
+				"amount": 1
+			},
+			"request": {
+				"itemKey": "projecte:medium_covalence_dust",
+				"amount": 38
+			},
+			"tradeExp": 5,
+			"maxUses": 12,
+			"priceMultiplier": 0.06,
+			"demand": 10,
+			"tradeLevel": 2
+		},
+		{
+			"offer": {
+				"itemKey": "minecraft:leather_boots",
+				"amount": 1
+			},
+			"request": {
+				"itemKey": "projecte:medium_covalence_dust",
+				"amount": 32
+			},
+			"tradeExp": 5,
+			"maxUses": 12,
+			"priceMultiplier": 0.06,
+			"demand": 10,
+			"tradeLevel": 2
+		},
+
+
+    {
+			"offer": {
+				"itemKey": "projecte:medium_covalence_dust",
+				"amount": 64
+			},
+			"request": {
+				"itemKey": "minecraft:leather",
+				"amount": 9
+			},
+			"tradeExp": 2,
+			"maxUses": 16,
+			"priceMultiplier": 0.08,
+			"demand": 10,
+			"tradeLevel": 3
+		},
+		{
+			"offer": {
+				"itemKey": "projecte:low_covalence_dust",
+				"amount": 64
+			},
+			"request": {
+				"itemKey": "minecraft:rabbit_hide",
+				"amount": 3
+			},
+			"tradeExp": 20,
+			"maxUses": 12,
+			"priceMultiplier": 0.12,
+			"demand": 10,
+			"tradeLevel": 3
+		},
+
+
+		{
+			"offer": {
+				"itemKey": "minecraft:leather_horse_armor",
+				"amount": 1
+			},
+			"request": {
+				"itemKey": "projecte:medium_covalence_dust",
+				"amount": 56
+			},
+			"tradeExp": 15,
+			"maxUses": 12,
+			"priceMultiplier": 0.08,
+			"demand": 10,
+			"tradeLevel": 4
+		},
+		{
+			"offer": {
+				"itemKey": "minecraft:saddle",
+				"amount": 1
+			},
+			"request": {
+				"itemKey": "projecte:medium_covalence_dust",
+				"amount": 32
+			},
+			"tradeExp": 30,
+			"maxUses": 12,
+			"priceMultiplier": 0.06,
+			"demand": 10,
+			"tradeLevel": 4
+		},
+
+
+    {
+			"offer": {
+				"itemKey": "minecraft:leather_chestplate",
+				"amount": 1,
+				"priceModifier": 0,
+				"enchantments":[
+					{
+						"enchantmentKey":"random",
+						"enchantmentLevel": -1,
+						"maxEnchantmentLevel": 3
+					}
+				],
+				"blacklistedEnchantments": [
+					"minecraft:vanishing_curse",
+					"minecraft:binding_curse"
+				]
+			},
+			"request": {
+				"itemKey": "projecte:high_covalence_dust",
+				"amount": 64
+			},
+			"tradeExp": 1,
+			"maxUses": 12,
+			"priceMultiplier": 0.16,
+			"demand": 10,
+			"tradeLevel": 5
+		},
+		{
+			"offer": {
+				"itemKey": "minecraft:leather_helmet",
+				"amount": 1,
+				"priceModifier":0,
+				"enchantments":[
+					{
+						"enchantmentKey":"random",
+						"enchantmentLevel":-1,
+						"maxEnchantmentLevel":3
+					}
+				],
+				"blacklistedEnchantments": [
+					"minecraft:vanishing_curse",
+					"minecraft:binding_curse"
+				]
+			},
+			"request": {
+				"itemKey": "projecte:high_covalence_dust",
+				"amount": 64
+			},
+			"tradeExp": 30,
+			"maxUses": 12,
+			"priceMultiplier": 0.16,
+			"demand": 10,
+			"tradeLevel": 5
+		},
+    {
+			"offer": {
+				"itemKey": "minecraft:leather_leggings",
+				"amount": 1,
+				"priceModifier": 0,
+				"enchantments":[
+					{
+						"enchantmentKey":"random",
+						"enchantmentLevel": -1,
+						"maxEnchantmentLevel": 3
+					}
+				],
+				"blacklistedEnchantments": [
+					"minecraft:vanishing_curse",
+					"minecraft:binding_curse"
+				]
+			},
+			"request": {
+				"itemKey": "projecte:high_covalence_dust",
+				"amount": 64
+			},
+			"tradeExp": 1,
+			"maxUses": 12,
+			"priceMultiplier": 0.16,
+			"demand": 10,
+			"tradeLevel": 5
+		},
+		{
+			"offer": {
+				"itemKey": "minecraft:leather_boots",
+				"amount": 1,
+				"priceModifier":0,
+				"enchantments":[
+					{
+						"enchantmentKey":"random",
+						"enchantmentLevel":-1,
+						"maxEnchantmentLevel":3
+					}
+				],
+				"blacklistedEnchantments": [
+					"minecraft:vanishing_curse",
+					"minecraft:binding_curse"
+				]
+			},
+			"request": {
+				"itemKey": "projecte:high_covalence_dust",
+				"amount": 64
+			},
+			"tradeExp": 30,
+			"maxUses": 12,
+			"priceMultiplier": 0.16,
+			"demand": 10,
+			"tradeLevel": 5
+		}
+	]
 }

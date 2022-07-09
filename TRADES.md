@@ -57,6 +57,25 @@ The fuels are left in mainly to help you unlock trades, since you might have a s
   - Buys Raw Frog Leg for Medium Dust
   - Sells Smoked Ham for High Dust
 
+## Cartographer
+
+While I considered somehow adding hints to atlases in the Cartographer's trades, generated Atlases just wouldn't work. So for now their trades are just the standard trades matched to resonable EMC values. Glass Panes were switched for Glass, since panes don't have an EMC value.
+
+- Novice
+  - Buys Paper for Medium Dust
+  - Sells Empty Maps for High Dust
+- Apprentice
+  - Buys Glass for Low Dust
+  - Sells Filled Map for High Dust and a Compass
+- Journeyman
+  - Buys Compass for High Dust
+  - Sells another Filled Map for High Dust and a Compass
+- Expert
+  - Sells Item Frame for Medium Dust
+  - Sells a random coloured Banner for Medium Dust
+- Master
+  - Sells Globe Banner Pattern for High Dust
+
 ## Cleric
 
 The Cleric seems to be designed as a progression villager with a potion brewer theme, giving you access to Redstone, Lapis, Glowstone and Ender Pearls simply by trading. ProjectE gates you with Redstone, Glowstone and Diamonds to get a Transmutation Table, so access to Redstone and Glowstone through this is quite impactful. In our case, we start with a Philosopher's Stone, so it isn't as big a deal, but being able to make a replacement if you lose yours is still important.
@@ -81,25 +100,6 @@ In keeping with the progression theme, this villager has guaranteed trades for L
   - Sells Glowstone for High Covalence Dust (*allows alternative progression via trading*)
 - Master
   - Sells Bottle o' Enchanting for High Covalence Dust (*can be transmuted to gain experience*)
-
-## Cartographer
-
-While I considered somehow adding hints to atlases in the Cartographer's trades, generated Atlases just wouldn't work. So for now their trades are just the standard trades match to resonable EMC values. Glass Panes were switched for Glass, since panes don't have an EMC value.
-
-- Novice
-  - Buys Paper for Medium Dust
-  - Sells Empty Maps for High Dust
-- Apprentice
-  - Buys Glass for Low Dust
-  - Sells Filled Map for High Dust and a Compass
-- Journeyman
-  - Buys Compass for High Dust
-  - Sells another Filled Map for High Dust and a Compass
-- Expert
-  - Sells Item Frame for Medium Dust
-  - Sells a random coloured Banner for Medium Dust
-- Master
-  - Sells Globe Banner Pattern for High Dust
 
 ## Farmer
 
@@ -168,3 +168,29 @@ At the high end you can get an enchanted Bow and better arrows, but you'll need 
 - Master
   - Sells Spectral Arrow for High Covalence Dust
   - Sells Tipped Arrows for High Covalence Dust and Arrows
+
+## Leatherworker
+
+Another fairly straightforward merchant. To make it a little different, he always sells a complete set of armor. And after that will buy leather and hide to restock his supplies.
+
+He then acts as a renewable source of leather horse armor and saddles.
+
+And finally sells some enchanted leather armor.
+
+- Novice
+  - Sells Leather Pants for Medium Covalence Dust
+  - Sells Leather Tunic for Medium Covalence Dust
+- Apprentice
+  - Sells Leather Cap for Medium Covalence Dust
+  - Sells Leather Boots for Medium Covalence Dust
+- Journeyman
+  - Buys Leather for Medium Covalence Dust
+  - Buys Rabbit Hide for Low Covalence Dust
+- Expert
+  - Sells Leather Horse Armor for Medium Covalence Dust
+  - Sells Saddle for Medium Covalence Dust
+- Master
+  - Sells Enchanted Leather Pants for High Covalence Dust
+  - Sells Enchanted Leather Tunic for High Covalence Dust
+  - Sells Enchanted Leather Cap for High Covalence Dust
+  - Sells Enchanted Leather Boots for High Covalence Dust
